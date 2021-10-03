@@ -83,10 +83,7 @@ if __name__ == "__main__" :
 		else : 
 			print("Your Input is not a String .Try again")
 	
-	elif len(sys.argv) > 3 :
-		print("You entered many arguments")
-	
 	else :
-		print("Enter Your Text plz .Try Again")
+		print("You have an Error Try Again")
 
 
