@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheWatcherI
+- 👀 I’m interested in ... Programming Languages
+- 🌱 I’m currently learning ...Python , Javascript
+- 💞️ I’m looking to collaborate on ... Python Projects if there is
+- 📫 How to reach me ... eanoire99@gmail.com
